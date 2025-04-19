@@ -1,6 +1,7 @@
 :root {
     --brand-color-instagram: #ff0069;
     --brand-color-bluesky: #0085ff;
+    --brand-color-threads: #ffffff;
     --brand-color-x: #000000;
 }
 
@@ -92,6 +93,11 @@ h1 {
 
 .social-icon.instagram i {
     background-color: var(--brand-color-instagram);
+}
+
+.social-icon.threads i {
+    background-color: var(--brand-color-threads);
+    color: #000000;
 }
 
 .social-icon.bluesky i {
