@@ -108,6 +108,10 @@ h1 {
     background-color: var(--brand-color-x);
 }
 
+.social-icon.goodreads i {
+    background-color: #616f55;
+}
+
 .social-icon.mail i {
     background-color: #a7bdb0;
 }
